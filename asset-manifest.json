@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/IT_Solutions_Services_Landing_Page/static/css/main.77c3b7c2.css",
+    "main.js": "/IT_Solutions_Services_Landing_Page/static/js/main.7555b801.js",
+    "static/js/787.6606bfd5.chunk.js": "/IT_Solutions_Services_Landing_Page/static/js/787.6606bfd5.chunk.js",
+    "static/media/animation.gif": "/IT_Solutions_Services_Landing_Page/static/media/animation.5a559d6eb3e5308387cf.gif",
+    "static/media/mobile.png": "/IT_Solutions_Services_Landing_Page/static/media/mobile.b368ba6bf0f5787aaadd.png",
+    "static/media/logo1.png": "/IT_Solutions_Services_Landing_Page/static/media/logo1.10e2a648008aef1e43cb.png",
+    "static/media/managing.jpg": "/IT_Solutions_Services_Landing_Page/static/media/managing.7f2f8a6c746944165ab3.jpg",
+    "static/media/uiux.jpg": "/IT_Solutions_Services_Landing_Page/static/media/uiux.d37c2becc9bde65af752.jpg",
+    "static/media/logo.png": "/IT_Solutions_Services_Landing_Page/static/media/logo.58174c03be645aa5625c.png",
+    "static/media/hybrid.png": "/IT_Solutions_Services_Landing_Page/static/media/hybrid.ef48524ee17a453617e0.png",
+    "static/media/banner.jpg": "/IT_Solutions_Services_Landing_Page/static/media/banner.6be97dbcc64298149674.jpg",
+    "static/media/circle.PNG": "/IT_Solutions_Services_Landing_Page/static/media/circle.6fe0528a74aeace9784e.PNG",
+    "static/media/logo.svg": "/IT_Solutions_Services_Landing_Page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/IT_Solutions_Services_Landing_Page/index.html",
+    "main.77c3b7c2.css.map": "/IT_Solutions_Services_Landing_Page/static/css/main.77c3b7c2.css.map",
+    "main.7555b801.js.map": "/IT_Solutions_Services_Landing_Page/static/js/main.7555b801.js.map",
+    "787.6606bfd5.chunk.js.map": "/IT_Solutions_Services_Landing_Page/static/js/787.6606bfd5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77c3b7c2.css",
+    "static/js/main.7555b801.js"
+  ]
+}
