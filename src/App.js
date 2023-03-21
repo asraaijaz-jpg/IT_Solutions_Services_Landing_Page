@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-
+import React from 'react';
 import Navbar from './Component/Navbar';
 import Section1 from './Component/Section1';
 import Section2 from './Component/Section2';
